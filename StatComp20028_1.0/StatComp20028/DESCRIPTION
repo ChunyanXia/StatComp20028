@@ -1,0 +1,20 @@
+Package: StatComp20028
+Type: Package
+Title: StatComp homework and two function
+Version: 1.0
+Date: 2020-12-15
+Author: Chunyan Xia
+Maintainer: Chunyan Xia <2064840169@qq.com>
+Description: StatComp homework and two function.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.5), igraph, microbenchmark, knitr, rmarkdown,
+        Ball,RANN,boot,energy,MASS
+LinkingTo: Rcpp
+Encoding: UTF-8
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 7.1.1
+URL: http://github.com/ChunyanXia/StatComp20028
+BugReports: http://github.com/ChunyanXia/StatComp20028/issues
+NeedsCompilation: yes
+Packaged: 2020-12-20 10:27:38 UTC; Summer
